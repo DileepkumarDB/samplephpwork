@@ -2,10 +2,10 @@
 <html>
 <body>
 
-<h1>Developing PHP Application</h1>
+<h1>Devops Lab</h1>
 
 <?php
-echo "Hello";
+echo "Version : 1.1";
 ?>
 
 </body>
